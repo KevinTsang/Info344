@@ -1,0 +1,78 @@
+body {
+	color: white;
+	font-family: 'Open Sans', 'Helvetica Compressed', 'Arial Narrow', 'Arial' sans-serif;
+	font-size: 16pt;
+	text-align: center;
+	background-color: rgb(2, 83, 165);
+}
+
+input {
+	font-family: 'Open Sans', 'Segoe UI', 'Verdana', sans-serif;
+	font-size: 24pt;
+	border-radius: 5px;
+}
+
+#searchform {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#logo {
+	height: 300px;
+	margin-bottom: 10px;
+}
+
+#results {
+	display: none;
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+
+	transition: opacity .5s .2s;
+	-webkit-transition: opacity .5s .2s;
+	-moz-transition: opacity .5s;
+	-ms-transition: opacity .5s;
+}
+
+.resultsCell {
+	width: 100%;
+	overflow: hidden;
+	border-bottom: 1px solid grey;
+
+	padding: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.resultsCell:first-child {
+	border-top: 1px solid grey;
+}
+
+.playerpicture {
+	float: left;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+	margin-right: 10px;
+}
+
+.playerdata {
+	font-size: 32pt;
+	float: left;
+}
+
+table {
+	border: 3px solid black;
+	border-radius: 5px;
+}
+
+th {
+	background-color: rgb(0, 0, 0);
+	padding: 5px;
+}
+
+td {
+	background-color: rgb(25, 25, 25);
+	padding: 5px;
+}
