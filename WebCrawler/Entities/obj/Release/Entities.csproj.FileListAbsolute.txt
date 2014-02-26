@@ -1,0 +1,10 @@
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\WebCrawler\Entities\bin\Release\Entities.dll
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\WebCrawler\Entities\bin\Release\Entities.pdb
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\WebCrawler\Entities\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\WebCrawler\Entities\bin\Release\Microsoft.Data.OData.dll
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\WebCrawler\Entities\bin\Release\Microsoft.Data.Edm.dll
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\WebCrawler\Entities\bin\Release\System.Spatial.dll
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\WebCrawler\Entities\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\WebCrawler\Entities\obj\Release\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\WebCrawler\Entities\obj\Release\Entities.dll
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\WebCrawler\Entities\obj\Release\Entities.pdb
