@@ -1,0 +1,10 @@
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Debug\WrapperEntities.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Debug\WrapperEntities.pdb
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Debug\Microsoft.Data.OData.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Debug\System.Spatial.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\obj\Debug\WrapperEntities.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\obj\Debug\WrapperEntities.pdb
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\obj\Debug\WrapperEntities.csprojResolveAssemblyReference.cache

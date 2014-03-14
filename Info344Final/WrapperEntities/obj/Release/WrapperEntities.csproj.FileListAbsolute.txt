@@ -1,0 +1,9 @@
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Release\WrapperEntities.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Release\WrapperEntities.pdb
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Release\Microsoft.WindowsAzure.Storage.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Release\Microsoft.Data.OData.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Release\Microsoft.Data.Edm.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Release\System.Spatial.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\bin\Release\Microsoft.WindowsAzure.Storage.xml
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\obj\Release\WrapperEntities.dll
+c:\users\kevin\documents\visual studio 2012\Projects\Info344Final\WrapperEntities\obj\Release\WrapperEntities.pdb
