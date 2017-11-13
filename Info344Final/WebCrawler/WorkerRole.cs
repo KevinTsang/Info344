@@ -28,7 +28,7 @@ namespace WebCrawler
 
             WebClient client = new WebClient();
             HashSet<string> unique = new HashSet<string>();
-            CloudStorageAccount storageAccount = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=info344blobstorage;AccountKey=szmTcQtg4w4CLwDg2FK3Frcq2M+Qy0Y66rYsuAQ0o6MQUI14GrFAvocYXAyglPRYp5b08lNQlD5TSRXgc3gzhA==");
+            CloudStorageAccount storageAccount = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=redacted;AccountKey=redacted");
             CloudQueueClient queueClient = storageAccount.CreateCloudQueueClient();
 
             CloudQueue commandQueue = queueClient.GetQueueReference("commands");
